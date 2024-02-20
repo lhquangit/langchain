@@ -4,3 +4,4 @@ deeplake
 openai==1.10.0
 tiktoken
 sentencepiece
+pydantic
